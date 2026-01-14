@@ -1,0 +1,19 @@
+#texto{
+    border: 2px solid black;
+    width: 350px;
+    height: 150px;
+}
+
+#contador{
+    color: black;
+    font-weight: bold;
+    font-family:'Segoe UI';
+    font-size: large;
+}
+
+.destacado{
+    color: black;
+    font-weight: bold;
+    font-family:'Segoe UI';
+    font-size: large;
+}
